@@ -1,14 +1,8 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+# 2019 Homicides in Little Rock and North Little Rock
 
-![Preview](preview.jpg)
-
-## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+## Live links 
+- Leaflet Map https://adgnewsroom.github.io/2019homicides/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1s-8O54qanmeEfgBhPYZQ9v_1SoHOYa325zy9JFCOLkI/edit#gid=164271551
-
-## Create your own
-- See video with step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
